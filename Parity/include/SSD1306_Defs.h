@@ -1,0 +1,5 @@
+#define OLED_ADDRESS 60
+#define OLED_WIDTH 128
+#define OLED_HEIGHT 64
+#define OLED_RSTPIN -1
+#define OLED_FREQ 400000
