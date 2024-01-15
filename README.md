@@ -65,3 +65,5 @@ Las funciones **`serial_tx(String &msg)`** y **`serial_rx(String &msg)`** siguen
 - **`probabilidad()`**: Exhibe en la pantalla OLED estadísticas relevantes al término de la transmisión de mensajes, brindando información sobre la probabilidad de error y la eficacia de la detección de errores.
 
 # Funcionamiento
+![Video que ilustra el funcionamiento del proceso de envío y recepción.](https://youtube.com/shorts/d7HVtWB1R2o?feature=share)
+
