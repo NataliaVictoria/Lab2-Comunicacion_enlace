@@ -1,9 +1,9 @@
 # Lab2:Link_layer
 
 Ingerantes:
-Brady Chávez Andrea Michelle
-Hernández Ramírez Victoria
-Victoria Nava Natalia 
+-Brady Chávez Andrea Michelle
+-Hernández Ramírez Victoria
+-Victoria Nava Natalia 
 
 # Introducción
 
