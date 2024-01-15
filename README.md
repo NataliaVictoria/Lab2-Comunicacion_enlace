@@ -1,5 +1,10 @@
 # Lab2:Link_layer
 
+Ingerantes:
+Brady Chávez Andrea Michelle
+Hernández Ramírez Victoria
+Victoria Nava Natalia 
+
 # Introducción
 
 En la práctica, se establece una conexión serial entre dos dispositivos Bluepill con el propósito de enviar mensajes deliberadamente corruptos. El objetivo principal es evaluar la efectividad de dos sistemas de detección de errores: el sistema basado en el código CRC (Cyclic Redundancy Check) y el sistema de bit de paridad. Este enfoque permite analizar cómo ambos sistemas responden y detectan posibles corrupciones en los mensajes transmitidos, proporcionando así una evaluación integral de la robustez y fiabilidad de cada método de detección.
